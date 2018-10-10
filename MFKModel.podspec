@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = 'MFKModel'
   s.summary      = 'High performance model framework for iOS/OSX.'
-  s.version      = '1.0.4.1'
+  s.version      = '1.0.4.2'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.authors      = { 'ChengWei' => '258775752@qq.com' }
   # s.social_media_url = 'http://blog.ibireme.com'
